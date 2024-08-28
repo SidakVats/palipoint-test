@@ -106,7 +106,7 @@ function App() {
             </form>
           </div>
         </div>
-        <div className=" h-full w-full lg:w-1/2 items-center justify-center bg-gray-200 p-5">
+        <div className=" w-full lg:w-1/2 items-center justify-center bg-gray-200 p-5">
           <TableContainer component={Paper}>
             <Table>
               <TableHead>
